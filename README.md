@@ -11,4 +11,9 @@
 
 
 # 二、其他  
-## &ensp;&ensp;1.
+## &ensp;&ensp;1.[黑苹果驱动配置文件EFI](https://github.com/tsingui/clover-efi)  
+&ensp;&ensp;&ensp;&ensp;部分黑苹果的EFI引导文件。  
+## &ensp;&ensp;2.[SSR(作者已喝茶)](https://github.com/shadowsocksr-backup/shadowsocksr-android)  
+&ensp;&ensp;&ensp;&ensp; SSR-Android.  
+## &ensp;&ensp;3.[KMSpico](https://github.com/charygao/KMSpico_v10.2.0)  
+&ensp;&ensp;&ensp;&ensp;Windows激活工具，基于KMS+脚本。
