@@ -1,6 +1,6 @@
 # 一、网易云音乐相关    
 
-## 1.[UnblockMusicPro_Xposed](https:://github.com/nining377/UnblockMusicPro_Xposed)    
+## 1.[UnblockMusicPro_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed)    
 解锁网易云音乐变灰的歌曲，基于[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)封装，用于手机的XP模块。  
 ## 2.[云村清洁工](https://github.com/zjns/PureNeteaseCloudMusic-Xposed)  
 精简网易云音乐界面，用于手机的XP模块。
