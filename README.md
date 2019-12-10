@@ -13,12 +13,13 @@
 # 二、其他  
 ## 1.[黑苹果驱动配置文件EFI](https://github.com/tsingui/clover-efi)  
 部分黑苹果的EFI引导文件。  
-## 2.SSR系列软件↓  
+## 2.翻墙系列软件↓  
 [SSR-Android(作者已喝茶)](https://github.com/shadowsocksr-backup/shadowsocksr-android)  
 [SSR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows)  
 [ShadowsocksX-NG MAC OS](https://github.com/qinyuhang/ShadowsocksX-NG-R)  
 [ShadowsocksX-R MAC OS(作者已停更)](https://github.com/yichengchen/ShadowsocksX-R)  
 [Shadowrocket iOS](https://github.com/shadowrocketHelp/help)  
+[v2rayNG-Android](https://github.com/2dust/v2rayNG)  
 ## 3.[KMSpico](https://github.com/charygao/KMSpico_v10.2.0)  
 Windows激活工具，基于KMS+脚本实现虚假的永久激活，Windows Defender会报毒，需加入白名单。  
 ## 4.太极  
